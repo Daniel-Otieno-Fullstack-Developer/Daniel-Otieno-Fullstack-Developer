@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Developer · ICT Department Head · Educator — Nairobi, Kenya</h3>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
-  <a href="https://wa.me/YOUR_NUMBER">WhatsApp</a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -23,9 +23,32 @@ I build web systems that real organisations run on every day — from a school m
 
 ## Tech stack
 
-- **Languages & frameworks:** PHP, JavaScript, Python, Java, Node.js, React, HTML5, CSS3
-- **Databases, backend & hosting:** MySQL, Firebase (Firestore, Auth, Hosting), cPanel, Git
-- **Design & networking:** Adobe Illustrator, Adobe Photoshop, Cisco networking
+**Languages & frameworks**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" />
+</p>
+
+**Databases, backend & hosting**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square" />
+</p>
+
+**Design & networking**
+<p>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square" />
+</p>
 
 ---
 
