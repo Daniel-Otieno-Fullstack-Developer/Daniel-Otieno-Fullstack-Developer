@@ -71,13 +71,9 @@ Live: [delhicollege.co.ke](https://delhicollege.co.ke)
 Business website for a Nairobi tyre and auto-parts dealer.
 Live: [kenyaihsaantyres.co.ke](https://kenyaihsaantyres.co.ke)
 
-### Dhayman Construction and Supply Company
-Company website for a construction and supply business.
-Live: [Live site](LINK)
-
 ### Aroly Studio
-Portfolio / brand website for a creative studio.
-Live: [Live site](LINK)
+Portfolio / brand website for a creative studio. *(Currently in testing)*
+Preview: [aroly-by-shirlene.web.app](https://aroly-by-shirlene.web.app)
 
 ---
 
