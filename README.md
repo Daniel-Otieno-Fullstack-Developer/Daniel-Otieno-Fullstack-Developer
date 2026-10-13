@@ -70,8 +70,17 @@ A full school management platform running in production at Delhi College, used b
 
 Live: [delhicollege.co.ke](https://delhicollege.co.ke)
 
-### Kenya Ihsaan Auto Tyres
-Business website for a Nairobi tyre and auto-parts dealer.
+### Kenya Ihsaan Auto Tyres — Product Catalogue & Business Site
+*PHP · MySQL · JavaScript · cPanel · Google Search Console*
+
+Catalogue website for a Nairobi tyre and auto-parts dealer, rebuilt so the business owns and manages its own product data.
+
+- **Migrated the site off Firebase** to a PHP/MySQL backend on Safaricom cPanel hosting
+- Designed the database schema and built a **JSON API of seven endpoints** that powers the catalogue
+- **Admin dashboard** for managing brands and products, seeded with 13 starter brands across tyres, batteries and alloy rims
+- **SEO and discoverability** — Google Search Console, XML sitemap, robots.txt, on-page SEO fixes and a Google Business Profile so the shop shows up in local search
+- Trained the client's team in **Excel for the business** (SUM, SUMIF, COUNTIF, IF) using their own business data
+
 Live: [kenyaihsaantyres.co.ke](https://kenyaihsaantyres.co.ke)
 
 ### Aroly Studio — Surface Pattern Design Studio
