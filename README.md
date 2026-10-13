@@ -17,7 +17,7 @@ I build web systems that real organisations run on every day — from a school m
 - **Freelance developer** for businesses across Nairobi
 - ALX Software Engineering alumnus
 - Currently learning **React** and **Laravel**
-- Ask me about PHP/MySQL systems, Firebase, cPanel deployment, or teaching people to code
+- Ask me about PHP/MySQL systems, Cloudflare Workers, Firebase, cPanel deployment, or teaching people to code
 
 ---
 
@@ -38,6 +38,9 @@ I build web systems that real organisations run on every day — from a school m
 **Databases, backend & hosting**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLite_(D1)-003B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square" />
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square" />
@@ -71,9 +74,19 @@ Live: [delhicollege.co.ke](https://delhicollege.co.ke)
 Business website for a Nairobi tyre and auto-parts dealer.
 Live: [kenyaihsaantyres.co.ke](https://kenyaihsaantyres.co.ke)
 
-### Aroly Studio
-Portfolio / brand website for a creative studio. *(Currently in testing)*
-Preview: [aroly-by-shirlene.web.app](https://aroly-by-shirlene.web.app)
+### Aroly Studio — Surface Pattern Design Studio
+*Cloudflare Workers · D1 (SQLite) · R2 · Cloudflare Access · Email Routing · JavaScript*
+
+Portfolio and licensing site for a surface pattern designer, with a custom admin so the client manages all of her own content.
+
+- Whole site and API run on a **single Cloudflare Worker** — static pages, JSON API and image delivery, on the free tier
+- Designs, collections and products stored in **D1**; images in **R2**, resized in the browser before upload so full-resolution artwork never leaves the designer's computer
+- **Colourway swatches** under every design — click a box to switch the artwork to another colourway of the same pattern
+- Admin dashboard protected by **Cloudflare Access** (email one-time PIN), with the Access JWT verified again inside the Worker
+- Contact form and newsletter saved to D1 with an admin inbox and CSV export; notifications sent through **Email Routing** with Reply-To set to the visitor; honeypot and hashed-IP rate limiting against spam
+- Migrated two domains from Namecheap DNS to Cloudflare — `.co.uk` and `www` 301-redirect to the main `.com` — plus a custom `hello@` address forwarded to the client's inbox
+
+Live: [arolystudio.com](https://arolystudio.com)
 
 ---
 
