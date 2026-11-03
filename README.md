@@ -151,4 +151,13 @@ Worked code solutions for my courses are public here, each topic with its own RE
 
 ---
 
+## Training
+
+**ALX Africa Software Engineering programme (2022).** I worked through the foundations (Git, shell and Linux on
+VirtualBox, and C) and the higher-level track (Python, web stack and DevOps basics), and built an inventory
+management system with admin monitoring as my capstone. I left before graduating when full-time work took over.
+More in [alx-zero_day](https://github.com/Daniel-Otieno-Fullstack-Developer/alx-zero_day).
+
+---
+
 <p align="center"><i>Open to remote and freelance work. <a href="https://danielotieno.co.ke/#contact">Let's talk about your project.</a></i></p>
