@@ -15,7 +15,7 @@
 
 Four years of hands-on work on production **PHP/MySQL, Firebase and Cloudflare** systems, including a school management platform used daily across seven staff roles and 200+ students. I own projects end to end: database design, backend logic, REST APIs and the frontend, on real client sites with live traffic and shared-hosting limits. Away from the keyboard, I draw portraits in graphite.
 
-- **ICT Department Head** at Delhi College, Eastleigh: I run the college's web systems and teach the IBM Full Stack and IBM Java Developer programmes
+- **ICT Department Head** at Delhi College, Eastleigh: I run the college's web systems and teach the IBM Full Stack and IBM Java Developer programmes, networking and graphic design
 - **Freelance full-stack developer** for businesses in Nairobi
 - **Open to remote and freelance work.** See everything at [danielotieno.co.ke](https://danielotieno.co.ke)
 
@@ -74,7 +74,7 @@ Play: [couple-of-sticks.web.app](https://couple-of-sticks.web.app)
 
 1-on-1 streetball in 3D. A chain-link cage court built in code, players animated procedurally on a 16-part rig, a broadcast camera with slow motion on dunks, and a full set of streetball rules against a Rookie or Pro CPU.
 
-Download for Android: [danielotieno.co.ke/#games](https://danielotieno.co.ke/#games)
+Download for Android: [danielotieno.co.ke/#freelance](https://danielotieno.co.ke/#freelance)
 
 ### Section C · Drawings
 
@@ -139,6 +139,7 @@ I head the ICT department at Delhi College, where I teach:
 - IBM Java Developer Professional Certificate
 - KNEC Diploma and Certificate in ICT
 - Cisco Packet Tracer: network design, configuration and simulation labs
+- Graphic Design: Adobe Photoshop and Illustrator
 - Microsoft Office training for private and corporate clients
 
 Worked code solutions for my courses are public here, each topic with its own README:
