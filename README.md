@@ -23,64 +23,23 @@ Four years of hands-on work on production **PHP/MySQL, Firebase and Cloudflare**
 
 ## Projects
 
-### Section A · Systems
+<p align="center">
+  <img src="assets/projects.svg" width="100%" alt="Project index: 01 Delhi College, 02 Kenya Ihsaan Auto Tyres, 03 Aroly Studio, 04 Road Rush, 05 Couple of Sticks, 06 Concrete Kings" />
+</p>
 
-#### Delhi College: Staffroom and results portals
-*PHP · MySQL · Firebase · cPanel*
+| # | Project | What I built | See it |
+|---|---|---|---|
+| 01 | **Delhi College** | Staffroom, a PHP/MySQL school management system used daily by seven staff roles, plus the results portals (200+ students moved from Firestore to MySQL) and the college website | [delhicollege.co.ke](https://delhicollege.co.ke) |
+| 02 | **Kenya Ihsaan Auto Tyres** | Product catalogue rebuilt from Firebase onto PHP/MySQL with a seven-endpoint JSON API, an admin dashboard, accounts and receipts, and SEO groundwork | [kenyaihsaantyres.co.ke](https://kenyaihsaantyres.co.ke) |
+| 03 | **Aroly Studio** | Portfolio and pattern-licensing site running on one Cloudflare Worker, with D1 for data, R2 for artwork and an admin behind Cloudflare Access | [arolystudio.com](https://arolystudio.com) |
+| 04 | **Road Rush** | Night-time motorbike game on Thika Road built with React and canvas, with a saved leaderboard and touch controls | [Play it](https://danielotieno.co.ke/play/road-rush/) |
+| 05 | **Couple of Sticks** | Real-time 1v1 spear-throwing game for the web and Android, with room codes, a deterministic physics engine and synthesised sound | [Play it](https://couple-of-sticks.web.app) |
+| 06 | **Concrete Kings** | 1-on-1 3D streetball for Android in Java and libGDX, with a procedural player rig and a broadcast camera | [Download the APK](https://danielotieno.co.ke/#freelance) |
 
-- Designed and built **Staffroom**, a PHP/MySQL school management system used daily across **seven staff roles**: admin, registrar, lecturer, manager, director, HR and marketing
-- Full role-based permissions, a two-stage leave request and approval workflow with deduction policy logic, and lecturers working across several departments
-- Moved the student results portals **off Firestore onto MySQL**: 200+ students and roughly 6,000 result records, with each department's grading rules kept intact
-- Run the main college website and six department result portals
+> **Why are these repositories private?** They hold client and employer code, so I keep them private to protect their systems and data.
+> For more details, a demo or a code walkthrough, [email me](mailto:oderodanielotieno@gmail.com) or [message me on LinkedIn](https://www.linkedin.com/in/danielianotieno/).
 
-Live: [delhicollege.co.ke](https://delhicollege.co.ke)
-
-#### Aroly Studio: portfolio and licensing site
-*Cloudflare Workers · D1 · R2 · Cloudflare Access · Email Routing*
-
-- Runs entirely on **one Cloudflare Worker**, with D1 for data and R2 for artwork files
-- Client-managed admin dashboard secured by **Cloudflare Access**, with colourway swatch switching on each pattern
-- Contact and newsletter inbox with Email Routing alerts; moved two domains to Cloudflare DNS with 301 redirects
-
-Live: [arolystudio.com](https://arolystudio.com)
-
-#### Kenya Ihsaan Auto Tyres: catalogue rebuild and SEO
-*PHP · MySQL · REST API · Google Search Console*
-
-- Rebuilt the catalogue from Firebase onto **PHP/MySQL** with a seven-endpoint JSON API and an admin dashboard for brands and products
-- Seeded with 13 brands across tyres, batteries and alloy rims
-- SEO groundwork: Search Console, sitemap and robots.txt, on-page fixes, a Google Business Profile and landing pages for six brands; trained the team in Excel on their own sales data
-
-Live: [kenyaihsaantyres.co.ke](https://kenyaihsaantyres.co.ke)
-
-### Section B · Games
-
-#### Road Rush
-*React 19 · Vite · Canvas*
-
-A night-time motorbike game on Thika Road: weave through matatus, boda bodas and lorries, grab jerrycans of fuel and dodge potholes. Canvas game loop, HUD, pause and restart, a saved top-five leaderboard, and keyboard and touch controls.
-
-Play: [danielotieno.co.ke/play/road-rush](https://danielotieno.co.ke/play/road-rush/)
-
-#### Couple of Sticks
-*React 19 · Firebase Realtime Database · Canvas · Web Audio · Capacitor*
-
-A real-time 1v1 spear-throwing game for the web and Android. Room codes and invite links, a deterministic physics engine with wind, armour that breaks apart on hits, synthesised sound, and both phones always agreeing on every hit.
-
-Play: [couple-of-sticks.web.app](https://couple-of-sticks.web.app)
-
-#### Concrete Kings
-*Java · libGDX · 3D · Android*
-
-1-on-1 streetball in 3D. A chain-link cage court built in code, players animated procedurally on a 16-part rig, a broadcast camera with slow motion on dunks, and a full set of streetball rules against a Rookie or Pro CPU.
-
-Download for Android: [danielotieno.co.ke/#freelance](https://danielotieno.co.ke/#freelance)
-
-### Section C · Drawings
-
-Graphite portraits drawn by hand from photographs, with commission packages from Kes. 2,500.
-
-Gallery: [danielotieno.co.ke/#drawings](https://danielotieno.co.ke/#drawings)
+**Drawings:** I also draw graphite portraits by hand. See the [gallery](https://danielotieno.co.ke/#drawings).
 
 ---
 
